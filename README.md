@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms & Cross Platform Development**
 
-- 📫 How to reach me **goela093@gmail.com**
+- 📫 Drop me an Email : **goela093@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

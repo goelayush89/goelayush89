@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ayush</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">, I'm Ayush</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms & Cross Platform Development**

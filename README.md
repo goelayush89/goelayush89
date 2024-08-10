@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">, I'm Ayush</h1>
-<h3 align="center">Software Engineer @ JP Morgan Chase and Co.</h3>
+<h3 align="center">Software Engineer @ JPMorgan Chase and Co.</h3>
 
 - 🌱 I’m currently working with **Java, Spring Boot, SQL**
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushgoel1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushgoel1729" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/goela093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="goela093" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

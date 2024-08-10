@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">, I'm Ayush</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer @ JP Morgan Chase and Co.</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms & Cross Platform Development**
+- 🌱 I’m currently working with **Java, Spring Boot, SQL**
 
 - 📫 Drop me an Email : **goela093@gmail.com**
 
